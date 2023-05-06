@@ -1,4 +1,19 @@
-.App {
+* {
+  margin: 0 20px;
+}
+.blank{
+  margin-top: 20px;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +50,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
